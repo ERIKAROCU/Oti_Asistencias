@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "a739267a391adcba09c97097cbad9f52",
+=======
+    "content-hash": "626b9e7ddd47fb7eff9aaa53cce0c9ad",
+>>>>>>> e4693646b05a06d721246768fe2b85237c94d6c2
     "packages": [
         {
             "name": "brick/math",
@@ -5800,6 +5804,7 @@
     ],
     "packages-dev": [
         {
+<<<<<<< HEAD
             "name": "brianium/paratest",
             "version": "v7.7.0",
             "source": {
@@ -5938,6 +5943,8 @@
             "time": "2024-12-07T21:18:45+00:00"
         },
         {
+=======
+>>>>>>> e4693646b05a06d721246768fe2b85237c94d6c2
             "name": "fakerphp/faker",
             "version": "v1.24.1",
             "source": {
@@ -6001,6 +6008,7 @@
             "time": "2024-11-21T13:46:39+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "fidry/cpu-core-counter",
             "version": "1.2.0",
             "source": {
@@ -6062,6 +6070,8 @@
             "time": "2024-08-06T10:04:20+00:00"
         },
         {
+=======
+>>>>>>> e4693646b05a06d721246768fe2b85237c94d6c2
             "name": "filp/whoops",
             "version": "2.16.0",
             "source": {
@@ -6184,6 +6194,7 @@
             "time": "2020-07-09T08:09:16+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "jean85/pretty-package-versions",
             "version": "2.1.0",
             "source": {
@@ -6304,6 +6315,8 @@
             "time": "2025-01-21T14:57:42+00:00"
         },
         {
+=======
+>>>>>>> e4693646b05a06d721246768fe2b85237c94d6c2
             "name": "laravel/pail",
             "version": "v1.2.1",
             "source": {
@@ -6752,6 +6765,7 @@
             "time": "2025-01-23T13:41:43+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "pestphp/pest",
             "version": "v3.7.4",
             "source": {
@@ -7150,6 +7164,8 @@
             "time": "2024-09-22T07:54:40+00:00"
         },
         {
+=======
+>>>>>>> e4693646b05a06d721246768fe2b85237c94d6c2
             "name": "phar-io/manifest",
             "version": "2.0.4",
             "source": {
@@ -7268,6 +7284,7 @@
             "time": "2022-02-21T01:04:05+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "phpdocumentor/reflection-common",
             "version": "2.2.0",
             "source": {
@@ -7490,6 +7507,8 @@
             "time": "2024-10-13T11:29:49+00:00"
         },
         {
+=======
+>>>>>>> e4693646b05a06d721246768fe2b85237c94d6c2
             "name": "phpunit/php-code-coverage",
             "version": "11.0.8",
             "source": {
@@ -8964,6 +8983,7 @@
             "time": "2024-10-23T06:56:12+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "ta-tikoma/phpunit-architecture-test",
             "version": "0.8.4",
             "source": {
@@ -9023,6 +9043,8 @@
             "time": "2024-01-05T14:10:56+00:00"
         },
         {
+=======
+>>>>>>> e4693646b05a06d721246768fe2b85237c94d6c2
             "name": "theseer/tokenizer",
             "version": "1.2.3",
             "source": {
